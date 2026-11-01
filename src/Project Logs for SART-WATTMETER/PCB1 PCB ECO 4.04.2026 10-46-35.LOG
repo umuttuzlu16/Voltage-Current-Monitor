@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=P26-1
+Added Component: Designator=P28(PAD)
+Added Component: Designator=P29(PAD)
+Added Pin To Net: NetName=GNDA Pin=P26-1
+Added Pin To Net: NetName=3.3V Pin=P28-1
+Added Pin To Net: NetName=3.3V Pin=P29-1
+Added Member To Class: ClassName=Schematic Member=Component P28 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P29 Pad1

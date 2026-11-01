@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=P21(PAD)
+Added Component: Designator=P22(PAD)
+Added Component: Designator=P23(PAD)
+Added Component: Designator=P24(PAD)
+Added Component: Designator=P25(PAD)
+Added Component: Designator=P26(PAD)
+Added Component: Designator=P27(PAD)
+Added Pin To Net: NetName=GNDA Pin=P24-1
+Added Pin To Net: NetName=GNDA Pin=P25-1
+Added Pin To Net: NetName=3.3V Pin=P26-1
+Added Pin To Net: NetName=3.3V Pin=P27-1
+Added Pin To Net: NetName=PA6 Pin=P21-1
+Added Pin To Net: NetName=PA6 Pin=U2-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=P22-1
+Added Pin To Net: NetName=PA7 Pin=U2-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=P23-1
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Net: Name=PA8
+Added Member To Class: ClassName=Schematic Member=Component P21 Pad1
+Added Member To Class: ClassName=Schematic Member=Component P22 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P23 Pad1
+Added Member To Class: ClassName=Schematic Member=Component P24 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P25 Pad1
+Added Member To Class: ClassName=Schematic Member=Component P26 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P27 Pad1

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=U3-2
+Removed Pin From Net: NetName=NetC9_2 Pin=U3-3
+Added Component: Designator=P3(PAD)
+Added Component: Designator=P4(PAD)
+Added Component: Designator=P5(PAD)
+Added Component: Designator=P6(PAD)
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=VCC2 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=NetC9_2 Pin=U3-2
+Added Pin To Net: NetName=NetC9_1 Pin=U3-3
+Added Member To Class: ClassName=Schematic Member=Component P3 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P4 Pad1
+Added Member To Class: ClassName=Schematic Member=Component P5 Pad0
+Added Member To Class: ClassName=Schematic Member=Component P6 Pad1
+Added Member To Class: ClassName=Schematic Member=Component U? 36503205S

@@ -1,0 +1,68 @@
+Add Component: Footprint Not Found CAP 1206_3216
+Add Component: Footprint Not Found CAP 1206_3216
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found LED 0805_2012 YELLOW
+Add Component: Footprint Not Found LED 0805_2012 RED
+Add Component: Footprint Not Found NETTÝE
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found PAD
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found WSLP3921L3000FEA
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Component: Footprint Not Found INA240A1PWR
+Added Net: Name=3.3V
+Added Net: Name=5V
+Added Net: Name=Current
+Added Net: Name=GNDA
+Added Net: Name=GND
+Added Net: Name=LED_R
+Added Net: Name=LED_Y
+Added Net: Name=NetC3_1
+Added Net: Name=NetC9_1
+Added Net: Name=NetC9_2
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_2
+Added Net: Name=RX1
+Added Net: Name=RX2
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Net: Name=TX1
+Added Net: Name=TX2
+Added Net: Name=VCC
+Added Net: Name=Voltage
+Added Class: Name=Schematic

@@ -1,0 +1,175 @@
+Added Component: Designator=C1(CAP 1206_3216)
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 1206_3216)
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP 0603_1608)
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP 0603_1608)
+Added Component: Designator=C5(CAP 0603_1608)
+Added Component: Designator=C6(CAP 0603_1608)
+Added Component: Designator=C7(CAP 0603_1608)
+Added Component: Designator=C8(CAP 0603_1608)
+Added Component: Designator=C9(CAP 0603_1608)
+Added Component: Designator=C10(CAP 0603_1608)
+Added Component: Designator=C11(CAP 0603_1608)
+Added Component: Designator=D1(LED 0805_2012 YELLOW)
+Added Component: Designator=D2(LED 0805_2012 RED)
+Added Component: Designator=N1(NETTÝE)
+Added Component: Designator=P1(PAD)
+Added Component: Designator=P2(PAD)
+Added Component: Designator=P3(PAD)
+Added Component: Designator=P4(PAD)
+Added Component: Designator=P5(PAD)
+Added Component: Designator=P6(PAD)
+Added Component: Designator=P7(PAD)
+Added Component: Designator=P8(PAD)
+Added Component: Designator=P9(PAD)
+Added Component: Designator=P10(PAD)
+Added Component: Designator=P11(PAD)
+Added Component: Designator=P12(PAD)
+Added Component: Designator=P13(PAD)
+Added Component: Designator=P14(PAD)
+Added Component: Designator=P15(PAD)
+Added Component: Designator=P16(PAD)
+Added Component: Designator=P17(PAD)
+Added Component: Designator=P18(PAD)
+Added Component: Designator=P19(PAD)
+Added Component: Designator=P20(PAD)
+Added Component: Designator=R1(RES 0603_1608)
+Added Component: Designator=R2(RES 0603_1608)
+Added Component: Designator=R3(WSLP3921L3000FEA)
+Added Component: Designator=R4(RES 0603_1608)
+Added Component: Designator=R5(RES 0603_1608)
+Added Component: Designator=R6(RES 0603_1608)
+Added Component: Designator=R7(RES 0603_1608)
+Added Component: Designator=R8(RES 0603_1608)
+Added Component: Designator=U1(SOT230P700X180-4N)
+Added Component: Designator=U2(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103CBT6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F103CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-48 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103CBT6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(INA240A1PWR)
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=C8-1
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=3.3V Pin=P7-1
+Added Pin To Net: NetName=3.3V Pin=P11-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-9
+Added Pin To Net: NetName=3.3V Pin=U2-24
+Added Pin To Net: NetName=3.3V Pin=U2-36
+Added Pin To Net: NetName=3.3V Pin=U2-48
+Added Pin To Net: NetName=3.3V Pin=U?-5
+Added Pin To Net: NetName=3.3V Pin=U?-6
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=Current Pin=U2-15
+Added Pin To Net: NetName=Current Pin=U?-8
+Added Net: Name=Current
+Added Pin To Net: NetName=GNDA Pin=C1-1
+Added Pin To Net: NetName=GNDA Pin=C2-1
+Added Pin To Net: NetName=GNDA Pin=C3-2
+Added Pin To Net: NetName=GNDA Pin=C4-2
+Added Pin To Net: NetName=GNDA Pin=C5-2
+Added Pin To Net: NetName=GNDA Pin=C6-2
+Added Pin To Net: NetName=GNDA Pin=C7-2
+Added Pin To Net: NetName=GNDA Pin=C8-2
+Added Pin To Net: NetName=GNDA Pin=C10-2
+Added Pin To Net: NetName=GNDA Pin=C11-2
+Added Pin To Net: NetName=GNDA Pin=N1-1
+Added Pin To Net: NetName=GNDA Pin=P2-1
+Added Pin To Net: NetName=GNDA Pin=P10-1
+Added Pin To Net: NetName=GNDA Pin=P14-1
+Added Pin To Net: NetName=GNDA Pin=P17-1
+Added Pin To Net: NetName=GNDA Pin=P20-1
+Added Pin To Net: NetName=GNDA Pin=R7-2
+Added Pin To Net: NetName=GNDA Pin=R8-2
+Added Pin To Net: NetName=GNDA Pin=U1-1
+Added Pin To Net: NetName=GNDA Pin=U2-8
+Added Pin To Net: NetName=GNDA Pin=U2-23
+Added Pin To Net: NetName=GNDA Pin=U2-35
+Added Pin To Net: NetName=GNDA Pin=U2-44
+Added Pin To Net: NetName=GNDA Pin=U2-47
+Added Pin To Net: NetName=GNDA Pin=U?-4
+Added Pin To Net: NetName=GNDA Pin=U?-7
+Added Net: Name=GNDA
+Added Pin To Net: NetName=GND Pin=N1-0
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_R Pin=D2-1
+Added Pin To Net: NetName=LED_R Pin=U2-32
+Added Net: Name=LED_R
+Added Pin To Net: NetName=LED_Y Pin=D1-1
+Added Pin To Net: NetName=LED_Y Pin=U2-33
+Added Net: Name=LED_Y
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U2-7
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R2-2
+Added Pin To Net: NetName=NetC9_1 Pin=U?-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R4-2
+Added Pin To Net: NetName=NetC9_2 Pin=U?-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R7-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R8-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=RX1 Pin=P15-1
+Added Pin To Net: NetName=RX1 Pin=U2-31
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=P18-1
+Added Pin To Net: NetName=RX2 Pin=U2-13
+Added Net: Name=RX2
+Added Pin To Net: NetName=SCL Pin=P13-1
+Added Pin To Net: NetName=SCL Pin=U2-42
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P12-1
+Added Pin To Net: NetName=SDA Pin=U2-41
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWCLK Pin=P9-1
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P8-1
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TX1 Pin=P16-1
+Added Pin To Net: NetName=TX1 Pin=U2-30
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=P19-1
+Added Pin To Net: NetName=TX2 Pin=U2-12
+Added Net: Name=TX2
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=Voltage Pin=R5-2
+Added Pin To Net: NetName=Voltage Pin=R6-1
+Added Pin To Net: NetName=Voltage Pin=U2-14
+Added Net: Name=Voltage
+Added Class: Name=Schematic
